@@ -1,0 +1,6 @@
+@SmProfile.WebAPI_HostAddress = http://localhost:5001
+
+GET {{SmProfile.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
